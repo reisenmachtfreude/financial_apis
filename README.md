@@ -10,6 +10,8 @@ Overview over API providers for financial fundamental data
 
 
 ## Further APIs
-|              | ... | ... |
+|              | Income Statements | Balance Sheet | Costs
 | :---         |     :---:      |     :---:     |
+
+| sec-api.io     | Unlimited     | Unlimited      | 100 Calls free, then 49 USD - 55 USD per month
 | alphavantage.com     | ...     | ...      |
