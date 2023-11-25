@@ -10,7 +10,7 @@ Overview over API providers for financial fundamental data
 
 
 ## Further APIs
-|              | Income Statements | Balance Sheet | Costs |
-| :---         |     :---:      |     :---:     | :---: |
-| [sec-api.io](sec-api.io)     | Unlimited     | Unlimited      | after 100 free calls, 49 USD - 55 USD per month |
-| [alphavantage.com](alphavantage.com)     | ...     | ...      | ... |
+|              | Income Statements | Balance Sheet | :us: | :cn: | :india: | :kr: | :uk: | :hong_kong: | :eu: | :canada: | :jp: | Costs |
+| :---         |     :---:      |     :---:     | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
+| [sec-api.io](sec-api.io)     | Unlimited     | Unlimited  | x  | - | - | - | - |  - | - | - | - |  after 100 free calls, 49 USD - 55 USD per month |
+| [alphavantage.com](alphavantage.com)     | ...     | ...     | x | ... | ... | ... |  ... |  ... | ... | ... |  ... |
