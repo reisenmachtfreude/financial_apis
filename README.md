@@ -14,3 +14,7 @@ Overview over API providers for financial fundamental data
 | :---         |     :---:      |     :---:     | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
 | [sec-api.io](sec-api.io)     | Unlimited     | Unlimited  | x  | - | - | - | - |  - | - | - | - |  after 100 free calls, 49 USD - 55 USD per month |
 | [alphavantage.com](alphavantage.com)     | ...     | ...     | x | ... | ... | ... |  ... |  ... | ... | ... |  ... |
+
+
+## Stock Exchange APIs
+TODO
