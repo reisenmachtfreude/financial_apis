@@ -1,10 +1,10 @@
 # Stock fundamental APIs
 Overview over API providers for financial fundamental data
 
-Python packages
-|              | ... | ... |
+Python packages (free of charge)
+|              | Income Statements | Balance Sheet |
 | :---         |     :---:      |     :---:     |
-| yfinance     | ...     | ...      |
+| yfinance     | 3 years     | 3 years      | 
 | yahoo_fin     | ...       |   ...     |
 
 
