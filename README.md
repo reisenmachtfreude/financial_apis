@@ -1,4 +1,4 @@
-# financial_apis
+# Stock fundamental APIs
 Overview over API providers for financial fundamental data
 
 Python packages
