@@ -21,13 +21,15 @@ Overview over API providers for financial fundamental data
 ## Stock Exchange (Ranked by trading volume of all exchanges in the country)
 |              | Links |
 | :---         |     :---:      |
-| :us: Nasdaq | [Stock list](https://www.nasdaq.com/market-activity/stocks/screener) |
-| :cn: Shanghai Stock exchange (SSE) | [Stock list](https://english.sse.com.cn/markets/equities/overview) |
+| :us: Nasdaq | [stock list](https://www.nasdaq.com/market-activity/stocks/screener) |
+| :cn: Shanghai Stock exchange (SSE) | [stock list](https://english.sse.com.cn/markets/equities/overview) |
 | :india: National Stock Exchange of India (NSE India)| [stock list](https://www.nseindia.com/market-data/live-equity-market) |
 | :kr: Korea Exchange (KRX) | [stock list](http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0301) |
+| :uk: London Stock Exchange (LSE) | [stock list](https://www.londonstockexchange.com/live-markets/market-data-dashboard/price-explorer) |
+
 
 ## Examples
 
-EODHD: [:us:](https://eodhd.com/financial-summary/AAPL.US) [:cn:](https://eodhd.com/financial-summary/600000.SHG)[:india:](https://eodhd.com/financial-summary/TATASTEEL.NSE)[:kr:](https://eodhd.com/financial-summary/005930.KO)
+EODHD: [:us:](https://eodhd.com/financial-summary/AAPL.US) [:cn:](https://eodhd.com/financial-summary/600000.SHG) [:india:](https://eodhd.com/financial-summary/TATASTEEL.NSE) [:kr:](https://eodhd.com/financial-summary/005930.KO) [:uk:](https://eodhd.com/financial-summary/SHEL.LSE)
 
 YahooFinance [:cn:](https://finance.yahoo.com/quote/600000.SS)
