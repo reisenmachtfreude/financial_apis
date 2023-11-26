@@ -10,11 +10,11 @@ Overview over API providers for financial fundamental data
 
 
 ## Further APIs
-|              | Income Statements | Balance Sheet | :us: | :cn: | :india: | :kr: | :uk: | :hong_kong: | :eu: | :canada: | :jp: | Costs |
-| :---         |     :---:      |     :---:     | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
-| [EODHD](eodhd.com)     | 20 years     | 20 years     | ✔️ | ✔️ | ✔️ | ✔️ |  ✔️ |  :x: | ✔️ | ✔️ | ✔️ | 50 EUR / month (fundamentals only) |
-| [sec-api.io](sec-api.io)     | Unlimited     | Unlimited  | ✔️  | :x: | :x: | :x: | :x: |  :x: | :x: | :x: | :x: |  after 100 free calls, 49 USD - 55 USD / month |
-| [Alphavantage](alphavantage.com)     | ...     | ...     | ✔️ | ... | ... | ... |  ... |  ... | ... | ... |  ... |
+|              | Finance Report History | :us: | :cn: | :india: | :kr: | :uk: | :hong_kong: | :eu: | :canada: | :jp: | Costs |
+| :---         |     :---:       | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
+| [EODHD](eodhd.com)     | 20 years     | ✔️ | ✔️ | ✔️ | ✔️ |  ✔️ |  :x: | ✔️ | ✔️ | ✔️ | 50 EUR / month (fundamentals only) |
+| [sec-api.io](sec-api.io)     | Unlimited     ✔️  | :x: | :x: | :x: | :x: |  :x: | :x: | :x: | :x: |  after 100 free calls, 49 USD - 55 USD / month |
+| [Alphavantage](alphavantage.com)     | ...    | ✔️ | ... | ... | ... |  ... |  ... | ... | ... |  ... |
 
 
 
