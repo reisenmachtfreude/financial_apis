@@ -12,7 +12,7 @@ Overview over API providers for financial fundamental data
 ## Further APIs
 |              | Finance Report History | :us: | :cn: | :india: | :kr: | :uk: | :hong_kong: | :eu: | :canada: | :jp: | Costs |
 | :---         |     :---:       | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
-| [EODHD](eodhd.com)     | 20 years     | ✔️ | ✔️ | ✔️ | ✔️ |  ✔️ |  :x: | ✔️ | ✔️ | ✔️ | 50 EUR / month (fundamentals only) |
+| [EODHD](https://eodhd.com/r/?ref=SS55HCO7) *     | 20 years     | ✔️ | ✔️ | ✔️ | ✔️ |  ✔️ |  :x: | ✔️ | ✔️ | ✔️ | 50 EUR / month (fundamentals only) |
 | [sec-api.io](sec-api.io)     | Unlimited     ✔️  | :x: | :x: | :x: | :x: |  :x: | :x: | :x: | :x: |  after 100 free calls, 49 USD - 55 USD / month |
 | [Alphavantage](alphavantage.com)     | ...    | ✔️ | ... | ... | ... |  ... |  ... | ... | ... |  ... |
 
@@ -35,3 +35,6 @@ Overview over API providers for financial fundamental data
 EODHD: [:us:](https://eodhd.com/financial-summary/AAPL.US) [:cn:](https://eodhd.com/financial-summary/600000.SHG) [:india:](https://eodhd.com/financial-summary/TATASTEEL.NSE) [:kr:](https://eodhd.com/financial-summary/005930.KO) [:uk:](https://eodhd.com/financial-summary/SHEL.LSE)
 
 YahooFinance [:cn:](https://finance.yahoo.com/quote/600000.SS)
+
+Remarks:
+* Affiliate link
