@@ -28,9 +28,6 @@ Overview over API providers for financial fundamental data
 
 ## Examples
 
-[EODHD :us:](https://eodhd.com/financial-summary/AAPL.US)
-[EODHD :cn:](https://eodhd.com/financial-summary/600000.SHG)
-[EODHD :india:](https://eodhd.com/financial-summary/TATASTEEL.NSE)
-[EODH :kr:](https://eodhd.com/financial-summary/005930.KO)
+EODHD: [:us:](https://eodhd.com/financial-summary/AAPL.US) [:cn:](https://eodhd.com/financial-summary/600000.SHG)[:india:](https://eodhd.com/financial-summary/TATASTEEL.NSE)[:kr:](https://eodhd.com/financial-summary/005930.KO)
 
-[YahooFinance :cn:](https://finance.yahoo.com/quote/600000.SS)
+YahooFinance [:cn:](https://finance.yahoo.com/quote/600000.SS)
