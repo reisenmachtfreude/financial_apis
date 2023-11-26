@@ -13,7 +13,7 @@ Overview over API providers for financial fundamental data
 |              | Finance Report History | :us: | :cn: | :india: | :kr: | :uk: | :hong_kong: | :eu: | :canada: | :jp: | Costs |
 | :---         |     :---:       | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
 | [EODHD](https://eodhd.com/r/?ref=SS55HCO7) *     | 20 years     | ✔️ | ✔️ | ✔️ | ✔️ |  ✔️ |  :x: | ✔️ | ✔️ | ✔️ | 50 EUR / month (fundamentals only) |
-| [sec-api.io](https://sec-api.io)     | unlimited     ✔️  | :x: | :x: | :x: | :x: |  :x: | :x: | :x: | :x: | ... | after 100 free calls, 49 USD - 55 USD / month |
+| [sec-api.io](https://sec-api.io)     | unlimited |    ✔️  | :x: | :x: | :x: | :x: |  :x: | :x: | :x: | :x: | after 100 free calls, 49 USD - 55 USD / month |
 | [Alphavantage](https://alphavantage.co)     | 5 years    | ✔️ | :x: | :x: | :x: |  :x: | :x:  | :x: |  :x: | ... | free |
 | [Polygon](https://polygon.io)     | up to unlimited  | ✔️ | ... | ... | ... | ... | ...  | ... |  ... | ... | 2 years free, 5 years 29 USD, 10 years 79 USD, unlimited 199 USD |
 
