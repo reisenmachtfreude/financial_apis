@@ -17,6 +17,9 @@ Overview over API providers for financial fundamental data
 | [Alphavantage](https://alphavantage.co)     | 5 years    | ✔️ | :x: | :x: | :x: |  :x: | :x:  | :x: |  :x: | ... | free |
 | [Polygon](https://polygon.io)     | up to unlimited  | ✔️ | ... | ... | ... | ... | ...  | ... |  ... | ... | 2 years free, 5 years 29 USD, 10 years 79 USD, unlimited 199 USD |
 | [Marketstack](https://marketstack.com/product)     | up to unlimited  | ✔️ | ... | ... | ... | ... | ...  | ... |  ... | ... | ... |
+| [financialmodelingprep](https://site.financialmodelingprep.com/developer/docs/pricing)     | 30 years  | ... | ... | ... | ... | ... | ...  | ... |  ... | ... | ... |
+
+
 
 
 ## Stock Exchange (Ranked by trading volume of all exchanges in the country)
