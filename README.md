@@ -34,6 +34,11 @@ Overview over API providers for financial fundamental data
 | :eu: Euronext Exchange | [stock list](https://live.euronext.com/en/products/equities/list#)
 | 🇨🇦 Toronto Stock Exchange (TSX) | [stock list](https://www.tsx.com/listings/listing-with-us/listed-company-directory)|
 
+## Smaller Exchanges
+|              | Links |
+| :---         |     :---:      |
+| 🇵🇰 Pakistan Stock Exchange | [data](https://dps.psx.com.pk/historical) |
+
 ## Examples
 EODHD: [:us:](https://eodhd.com/financial-summary/AAPL.US) [:cn:](https://eodhd.com/financial-summary/600000.SHG) [:india:](https://eodhd.com/financial-summary/TATASTEEL.NSE) [:kr:](https://eodhd.com/financial-summary/005930.KO) [:uk:](https://eodhd.com/financial-summary/SHEL.LSE)
 
