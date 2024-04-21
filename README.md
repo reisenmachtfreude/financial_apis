@@ -37,7 +37,10 @@ Overview over API providers for financial fundamental data
 ## Smaller Exchanges
 |              | Links |
 | :---         |     :---:      |
-| 🇵🇰 Pakistan Stock Exchange | [data](https://dps.psx.com.pk/historical) |
+| 🇵🇰 Pakistan Stock Exchange (PSX)| [data](https://dps.psx.com.pk/historical) |
+| 🇺🇦 Ukrainian Stock Exchange (PFTS) | [data](https://pfts.ua/en/1-about-pfts-se/1-listing) |
+
+https://pfts.ua/en/
 
 ## Examples
 EODHD: [:us:](https://eodhd.com/financial-summary/AAPL.US) [:cn:](https://eodhd.com/financial-summary/600000.SHG) [:india:](https://eodhd.com/financial-summary/TATASTEEL.NSE) [:kr:](https://eodhd.com/financial-summary/005930.KO) [:uk:](https://eodhd.com/financial-summary/SHEL.LSE)
