@@ -40,6 +40,7 @@ Overview over API providers for financial fundamental data
 | 🇵🇰 Pakistan Stock Exchange (PSX)| [data](https://dps.psx.com.pk/historical) |
 | 🇺🇦 Ukrainian Stock Exchange (PFTS) | [data](https://pfts.ua/en/1-about-pfts-se/1-listing) |
 | 🇪🇬 The Egyptian Stock Exchange (EGX) | [stock list](https://www.egx.com.eg/en/ListedStocks.aspx) |
+| 🇦🇪 Abu Dhabi Securities Exchange (ADX)| [stock list](https://www.adx.ae/english/Pages/marketwatch.aspx?isdlg=1) |
 
 
 
