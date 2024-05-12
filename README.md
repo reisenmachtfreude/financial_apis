@@ -40,11 +40,11 @@ Overview over API providers for financial fundamental data
 | 🇮🇳 National Stock Exchange of India (NSE) | [stock list](https://www.nseindia.com/market-data/live-equity-market) |
 | 🇦🇺 Australian Securities Exchange (ASX) | [stock list](https://www.asx.com.au/markets/trade-our-cash-market/directory) |
 | 🇨🇭 Swiss Exchange (SIX) | [stock list](https://www.six-group.com/en/products-services/the-swiss-stock-exchange/market-data/shares/share-explorer.html) |
-| 🇧🇷 B3 (B3SA) | [stock list] (https://www.b3.com.br/en_us/products-and-services/trading/equities/listed-companies.htm) |
+| 🇧🇷 B3 (B3SA) | [stock list](https://www.b3.com.br/en_us/products-and-services/trading/equities/listed-companies.htm) |
 | 🇷🇺 Moscow Exchange (MOEX) |[stock list](https://www.moex.com/msn/en-stock-instruments) |
-| 🇹🇼 Taiwan Stock Exchange (TWSE) | [stock list] (https://www.twse.com.tw/en/listed/listed/new-listing.html) |
-| 🇿🇦 JSE Limited (JSE) | [stock list] (https://clientportal.jse.co.za/companies-and-financial-instruments) |
-| 🇸🇬 Singapore Exchange (SGX) | [stock list] (https://investors.sgx.com/stock-screener) |
+| 🇹🇼 Taiwan Stock Exchange (TWSE) | [stock list](https://www.twse.com.tw/en/listed/listed/new-listing.html) |
+| 🇿🇦 JSE Limited (JSE) | [stock list](https://clientportal.jse.co.za/companies-and-financial-instruments) |
+| 🇸🇬 Singapore Exchange (SGX) | [stock list](https://investors.sgx.com/stock-screener) |
 
 
 
