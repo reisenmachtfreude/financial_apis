@@ -30,9 +30,24 @@ Overview over API providers for financial fundamental data
 | :india: National Stock Exchange of India (NSE India)| [stock list](https://www.nseindia.com/market-data/live-equity-market) |
 | :kr: Korea Exchange (KRX) | [stock list](http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0301) |
 | :uk: London Stock Exchange (LSE) | [stock list](https://www.londonstockexchange.com/live-markets/market-data-dashboard/price-explorer) |
-| :hong_kong: Hongkong Stock Exchange (HKEX) | [stock list](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=en)
-| :eu: Euronext Exchange | [stock list](https://live.euronext.com/en/products/equities/list#)
-| 🇨🇦 Toronto Stock Exchange (TSX) | [stock list](https://www.tsx.com/listings/listing-with-us/listed-company-directory)|
+| :hong_kong: Hongkong Stock Exchange (HKEX) | [stock list](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=en) |
+| :eu: Euronext Exchange | [stock list](https://live.euronext.com/en/products/equities/list#) |
+| 🇨🇦 Toronto Stock Exchange (TSX) | [stock list](https://www.tsx.com/listings/listing-with-us/listed-company-directory) |
+| 🇨🇳 Shenzhen Stock Exchange (SZSE) | [stock list](https://www.szse.cn/English/siteMarketData/siteMarketDatas/stocks/index.html) |
+| 🇩🇪 German Electronic Exchange (XETRA) | [stock list](https://www.xetra.com/xetra-en/instruments/shares/list-of-tradable-shares) |
+| 🇩🇪 Börse Frankfurt (XFRA)| [stock list](https://www.boerse-frankfurt.de/aktien/suche) |
+| 🇮🇳 Bombay Stock Exchange (BSE) | [stock list](https://www.bseindia.com/eqstreamer/StreamerMarketwatch.html?flag=1) |
+| 🇮🇳 National Stock Exchange of India (NSE) | [stock list](https://www.nseindia.com/market-data/live-equity-market) |
+| 🇦🇺 Australian Securities Exchange (ASX) | [stock list](https://www.asx.com.au/markets/trade-our-cash-market/directory) |
+| 🇨🇭 Swiss Exchange (SIX) | [stock list](https://www.six-group.com/en/products-services/the-swiss-stock-exchange/market-data/shares/share-explorer.html) |
+| 🇧🇷 B3 (B3SA) | [stock list] (https://www.b3.com.br/en_us/products-and-services/trading/equities/listed-companies.htm) |
+| 🇷🇺 Moscow Exchange (MOEX) |[stock list](https://www.moex.com/msn/en-stock-instruments) |
+| 🇹🇼 Taiwan Stock Exchange (TWSE) | [stock list] (https://www.twse.com.tw/en/listed/listed/new-listing.html) |
+| 🇿🇦 JSE Limited (JSE) | [stock list] (https://clientportal.jse.co.za/companies-and-financial-instruments) |
+| 🇸🇬 Singapore Exchange (SGX) | [stock list] (https://investors.sgx.com/stock-screener) |
+
+
+
 
 ## Smaller Exchanges
 |              | Links |
