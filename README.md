@@ -56,7 +56,7 @@ Overview over API providers for financial fundamental data
 | 🇺🇦 Ukrainian Stock Exchange (PFTS) | [data](https://pfts.ua/en/1-about-pfts-se/1-listing) |
 | 🇪🇬 The Egyptian Stock Exchange (EGX) | [stock list](https://www.egx.com.eg/en/ListedStocks.aspx) |
 | 🇦🇪 Abu Dhabi Securities Exchange (ADX)| [stock list](https://www.adx.ae/english/Pages/marketwatch.aspx?isdlg=1) |
-
+| 🇵🇭 Philippine Stock Exchange (PSE) | [stock list](https://edge.pse.com.ph/companyDirectory/form.do) |
 
 
 ## Examples
