@@ -27,6 +27,7 @@ Overview over API providers for financial fundamental data
 | :---         |     :---:      |
 | :us: Nasdaq | [stock list](https://www.nasdaq.com/market-activity/stocks/screener) |
 | :cn: Shanghai Stock exchange (SSE) | [stock list](https://english.sse.com.cn/markets/equities/overview) |
+| 🇯🇵 Tokyo Stock Exchange (TSE) | [stock list](https://www2.jpx.co.jp/tseHpFront/JJK020010Action.do?Show=Show) |
 | :india: National Stock Exchange of India (NSE India)| [stock list](https://www.nseindia.com/market-data/live-equity-market) |
 | :kr: Korea Exchange (KRX) | [stock list](http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0301) |
 | :uk: London Stock Exchange (LSE) | [stock list](https://www.londonstockexchange.com/live-markets/market-data-dashboard/price-explorer) |
